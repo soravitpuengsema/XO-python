@@ -110,4 +110,4 @@ def endgame():
     else:
         print("Please answer Y or n")
         endgame()
-startgame()
+startgame() #start the game
